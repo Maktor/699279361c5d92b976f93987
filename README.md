@@ -1,1 +1,1 @@
-<img width="1189" height="449" alt="Unknown-2" src="https://github.com/user-attachments/assets/29468a32-6c8d-426b-9a2c-0b16dfaf01fe" />
+<img width="2385" height="1953" alt="triangle_puzzle" src="https://github.com/user-attachments/assets/04f94fa4-03b4-4380-89e1-4b20fde593b4" />
